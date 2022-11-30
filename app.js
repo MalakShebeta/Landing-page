@@ -18,7 +18,7 @@ list.appendChild(links); // add links to the list
 
  links.addEventListener('click' , (event) => {
     event.preventDefault();
-    section.scrollIntoView({behavior:"smooth"}); // to scroll smoothly between sections when click on the links 
+    section.scrollIntoView({behavior:"smooth" , block:"end" }); // to scroll smoothly between sections when click on the links 
 })
   fragment.appendChild(list);
 })

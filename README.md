@@ -7,4 +7,8 @@ HTML, CSS and JavaScript.
 its a responsive page to use across all devices ,
 smooth scrolling between sections ,
 it has comments to make codes easy to read.
+# instructions:
+you can run the project by open the index.html on any browser and it will work fine .
+# Author's name.
+Malak Mohamed
 
